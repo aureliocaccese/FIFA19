@@ -1,2 +1,2 @@
 # 🏟️⚽️FIFA19⚽️🏟️
-In questo progetto di gruppo abbiamo utilizzato Rstudio per visualizzare ed analizzare i dati contenuti nel dataset: "FIFA19" 
+In this group project we used Rstudio to visualize and analyze the data contained in the dataset: "FIFA19"
